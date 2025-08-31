@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/retail-java-challenges.iml" filepath="$PROJECT_DIR$/.idea/retail-java-challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challenges/week-01-cart-discounts/test/test.iml" filepath="$PROJECT_DIR$/challenges/week-01-cart-discounts/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challenges/week-01-cart-discounts/src/week-01-cart-discounts.iml" filepath="$PROJECT_DIR$/challenges/week-01-cart-discounts/src/week-01-cart-discounts.iml" />
+    </modules>
+  </component>
+</project>

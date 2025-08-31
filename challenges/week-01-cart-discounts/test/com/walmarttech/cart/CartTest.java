@@ -15,4 +15,8 @@ public class CartTest {
         double total = cart.calculateTotal();
         assertEquals(2.0 * 3 * 0.9 + 1.5 * 2 + 3.0 * 3 * 0.9, total, 0.01);
     }
+
+    public static void main(String[] args) {
+        new CartTest().testTotalWithDiscounts();
+    }
 }
