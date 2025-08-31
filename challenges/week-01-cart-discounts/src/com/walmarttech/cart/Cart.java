@@ -10,8 +10,6 @@ public class Cart {
     }
 
     public double calculateTotal() {
-        return products.stream()
-            .mapToDouble(p -> discountService.applyDiscount(p))
-            .sum();
+        return discountService.applyDiscount(products).sum();
     }
 }
